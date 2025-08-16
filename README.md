@@ -16,3 +16,12 @@ def word_fractal(word):
     return word + "\n" + inner_pattern + "\n" + word
 
 print(word_fractal("PYTHON"))
+
+### Output
+PYTHON
+YTHO
+TH
+T
+TH
+YTHO
+PYTHON
