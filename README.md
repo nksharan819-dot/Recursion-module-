@@ -19,5 +19,3 @@ TH
 YTHO
 PYTHON
 
-### File:-
-python "Recursive module.py"
