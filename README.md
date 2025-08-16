@@ -9,7 +9,7 @@ This project demonstrates how recursion can be applied in string manipulation to
 
 ### Input:-
 
-Python 3.x
+python- 
 print(word_fractal("PYTHON"))
 
 #### Output:-
