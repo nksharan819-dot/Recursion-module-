@@ -5,7 +5,7 @@ Great for learning recursion basics and string manipulation.
 
 ---
 
-## 🚀 Usage:-
+## Usage:-
 Run the script with Python:
 ```python
 print(word_fractal("PYTHON"))
